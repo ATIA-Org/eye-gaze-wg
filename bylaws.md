@@ -4,7 +4,7 @@ Draft created following the structure suggested at https://ctb.ku.edu/en/table-o
 
 ## Article I, Name and purpose of the organization
 
-ATIA Eye Gaze Standards Working Group
+Name: ATIA Eye Gaze Standards Working Group
 
 This working group will collaborate on the process by which eye gaze aware applications can recognize, cooperate, and interact with each other.
 
