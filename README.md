@@ -8,3 +8,7 @@ This group is open to ATIA members and non-members.  To RSVP, please visit [the 
 ## Overarching goal of this group
 
 This working group will collaborate on the process by which eye gaze aware applications can recognize, cooperate, and interact with each other. As a novel technology which does not have established interoperability semantics, additional guidelines and interaction patterns are needed to ensure an integrated outcome for users of eye gaze systems who have multiple products from different authors and companies installed on the same device.
+
+## Subcommittees
+
+[Eye Gaze Aware Specification](https://github.com/ATIA-Org/eye-gaze-aware)
