@@ -11,6 +11,6 @@ Physical Meeting Room: TBD, Orlando Florida World Center Marriott
 ## New Business
 
 * Review and Approval of Bylaws
-* Discuss Initial Scope of Work: [Eye Gaze Aware Specification](https://github.com/ATIA-Org/eye-gaze-aware)
+* Discuss Initial Subcommittee: [Eye Gaze Aware Specification](https://github.com/ATIA-Org/eye-gaze-aware)
 * Election of Officers
 * Schedule Next Meeting
