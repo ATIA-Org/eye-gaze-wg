@@ -1,5 +1,7 @@
 # Agenda for the 2024-01 Eye Gaze Working Group
 
+[Zoom Meeting Link](https://us06web.zoom.us/j/83876116905?pwd=b3tRS5Y7kQCPmlWlZFJIqpPD7HWM5d.1)
+
 ## Welcome & Introduction to Working Group
 
 ## Roll Call & Introductions
