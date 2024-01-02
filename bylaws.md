@@ -24,7 +24,7 @@ When accepted, members will be invited to the communications channel used to dis
 
 The ATIA Eye Gaze Standards Working Group is a part of the larger ATIA organization and as such is managed by ATIA's Executive Staff and Board of Directors.
 
-In case of issues or conflicts of governance, membership, or decision making, any final decisions are made by the Executive Staff or Board of ATIA.
+In case of issues or conflicts of governance, membership, or decision making, any final decisions are made by the Executive Staff or Board of Directors for ATIA.
 
 ### Officers, Titles, Length of Office, Responsibilities
 
