@@ -1,5 +1,7 @@
 # Agenda for the 2024-02 Eye Gaze Working Group
 
+Scheduling Poll: https://doodle.com/meeting/participate/id/b8XW7g2b
+
 ## Welcome
 
 ## Roll Call & Introductions
