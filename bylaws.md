@@ -59,6 +59,15 @@ In the event an Officer vacates a position due to resignation or other reason, t
 
 Sub-committees may be formed by a quorum fulfilling majority vote of the membership at any meeting.
 
+### Voting Rights
+
+Voting rights are modeled on the bylaws of the USB Implementors Forum, [Bylaws Revision 1.6.1](https://usb.org/sites/default/files/dwg_operating_process_and_procedures_rev_1.6_1.pdf), Section 3.5 summarized thusly:
+
+* A company must be a member of ATIA in good standing to have voting rights.
+* Each company may have many employees participating in the working group, but only one vote.
+* Active participation is required to maintain voting rights, defined as attendance at two of the last three working group meetings (first and second meeting exempted).
+* Affiliate companies, defined as having ownership or control greater than 50% by another member company, do not vote independently of their member company.  See section 3.5.5. for details.
+
 ### Decisions
 
 Voting will occur by simple majority voice vote.  In case of a contested decision the chairperson will clarify by role call vote.
