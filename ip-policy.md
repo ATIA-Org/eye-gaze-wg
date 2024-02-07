@@ -1,5 +1,5 @@
 # ATIA Eye Gaze Standards Working Group IP Policy
 
-Verbally introduced by ATIA CEO David Ditker in the 2024-01 kick-off meeting.
+What us said in the working group is publicly disclosed.  Do not disclose anything that violates the IP policies of your employer.
 
-To be written down and documented here prior to the 2024-02 meeting.
+There are no patent disclosure required for this working group.
