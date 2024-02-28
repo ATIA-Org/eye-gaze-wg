@@ -17,5 +17,6 @@ Scheduling Poll: https://doodle.com/meeting/participate/id/b8XW7g2b
 
 * Discuss Initial Subcommittee: [Eye Gaze Aware Specification](https://github.com/ATIA-Org/eye-gaze-aware)
 * Discuss working group's approach to eye gaze privacy and ethics
+* Discuss topics for future working groups
 
 ## Schedule Next Meeting
