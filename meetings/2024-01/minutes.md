@@ -12,12 +12,12 @@ Virtual Location: Zoom
 - Tolt Technologies: Jay Beavers
 - Cephable: Jon Campbell
 - Irisbond: Oscar Berreteaga
-- Eyegaze Company: Pete Norloff, Preethi Vaidyanathan
+- Eyegaze Inc.: Pete Norloff, Preethi Vaidyanathan, James Brinton
 - Talk To Me Technologies: Matthew Dunning
 - Tobii Dynavox
 - Apple
 - Control Bionics: Todd Tyler
-- PRC: Chip Park, Dustin Welty
+- PRC-Saltillo: Chip Clarke, Dustin Welty
 - NextVPU
 - Dagesh Assistive Technology: Efi Fallah
 - Google: James Stout
